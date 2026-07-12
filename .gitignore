@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.log
+.env
+.env.*
+!.env.example
+
+# Private or unreviewed source material must never be committed.
+source-archive/
+private/
+staging/
+tmp/
+work/
+downloads/
+
+# Generated archives should normally be attached to GitHub Releases.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
