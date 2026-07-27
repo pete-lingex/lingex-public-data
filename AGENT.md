@@ -51,3 +51,15 @@ When working in this repository:
 - keep server layout assumptions explicit
 - keep deploy behavior documented in-repo
 - avoid introducing coupling to unrelated repositories unless it is part of a documented contract
+
+## ChatGPT Project-Source Policy
+
+This repo should record its ChatGPT project-source manifest or manifest policy in-repo.
+
+Placeholder for this repo:
+
+- canonical manifest file: `TODO`
+- pack contract doc: `TODO`
+- include rules: `TODO`
+- exclusion rules: `TODO`
+- refresh or generation command: `TODO`
