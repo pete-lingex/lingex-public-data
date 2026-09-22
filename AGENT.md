@@ -1,5 +1,14 @@
 # Repository Agent Notes
 
+## ChatGPT Project Manifest
+
+`AGENT.md` is item 1. Direct sources (items 2-24) are `README.md`,
+`CATALOGUE.json`, `schemas/public-data-package-manifest.schema.json`,
+`scripts/install-version-hook.sh`, and `scripts/bump-version.sh`.
+Item 25 is a curated ZIP of other safe tracked schemas/catalogue documentation
+when the estate exporter is enabled. There is no local generator. Exclude raw
+payloads, credentials, caches, `.DS_Store`, runtime output and untracked files.
+
 ## Repository System
 
 All LingEx repositories live on the production server under:
