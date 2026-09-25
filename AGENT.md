@@ -2,7 +2,7 @@
 
 ## ChatGPT Project Manifest
 
-`AGENT.md` is item 1. Direct sources (items 2-24) are `README.md`,
+`AGENT.md` is item 1. Direct sources (items 2-24) are `PUBLIC.md`,
 `CATALOGUE.json`, `schemas/public-data-package-manifest.schema.json`,
 `scripts/install-version-hook.sh`, and `scripts/bump-version.sh`.
 Item 25 is a curated ZIP of other safe tracked schemas/catalogue documentation
