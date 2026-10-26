@@ -24,3 +24,5 @@ packages.
 
 Validate JSON/schema/catalogue inputs, inspect Git diff, and run `git diff --check`.
 Before completion apply the current Work Tracker change-completion contract.
+
+Maintainer and package-administration guidance is in [ADMIN.md](ADMIN.md).
